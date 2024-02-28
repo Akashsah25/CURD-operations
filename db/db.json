@@ -1,0 +1,144 @@
+{
+  "signup": [
+    {
+      "email": "sahakash25.eng@gmail.com",
+      "password": "dd",
+      "id": 13
+    },
+    {
+      "email": "sahakash25.eng@gmail.com",
+      "password": "Akash",
+      "id": 14
+    },
+    {
+      "email": "sahakash25.eng@gmail.com",
+      "password": "aaa",
+      "id": 15
+    },
+    {
+      "email": "sahakash25.eng@gmail.com",
+      "password": "Akash",
+      "id": 16
+    },
+    {
+      "email": "SDFDS",
+      "password": "DFSDFDS",
+      "id": 17
+    },
+    {
+      "email": "dfsdfsdf",
+      "password": "dsfsdfr322",
+      "id": 18
+    },
+    {
+      "email": "sahakash25.eng@gmail.com",
+      "password": "11111",
+      "id": 19
+    },
+    {
+      "email": "sahakash25.eng@gmail.com",
+      "password": "Akash",
+      "id": 20
+    },
+    {
+      "email": "sahakash25.eng@gmail.com",
+      "password": "Akash",
+      "id": 21
+    },
+    {
+      "email": "sahakash25.eng@gmail.com",
+      "password": "sssss",
+      "id": 22
+    },
+    {
+      "email": "sahakash25.eng@gmail.com",
+      "password": "1111",
+      "id": 23
+    },
+    {
+      "email": "akashsah2506@gmil.com",
+      "password": "444444",
+      "id": 24
+    },
+    {
+      "email": "sahakash25.eng@gmail.com",
+      "password": "aaa",
+      "id": 25
+    },
+    {
+      "email": "sahakash25.eng@gmail.com",
+      "password": "444444",
+      "id": 26
+    },
+    {
+      "email": "sahakash25.eng@gmail.com",
+      "password": "aaa",
+      "id": 27
+    },
+    {
+      "email": "sahakash25.eng@gmail.com",
+      "password": "akash",
+      "id": 28
+    },
+    {
+      "email": "sahakash25.eng@gmail.com",
+      "password": "aaa",
+      "id": 29
+    },
+    {
+      "email": "sahakash25.eng@gmail.com",
+      "password": "aaa",
+      "id": 30
+    },
+    {
+      "email": "ssss@dddd",
+      "password": "ssssdddd",
+      "id": 31
+    },
+    {
+      "email": "sahakash25.eng@gmail.com",
+      "password": "Akash",
+      "id": 32
+    },
+    {
+      "email": "sahakash25.eng@gmail.com",
+      "password": "Akash",
+      "id": 33
+    },
+    {
+      "email": "akashsah2506@gmil.com",
+      "password": "akash",
+      "id": 34
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 4,
+      "Name": "mojopizza",
+      "Address": "delhi",
+      "Email": "mojopizza@gmail.com",
+      "Rating": "4.6"
+    },
+    {
+      "id": 5,
+      "Name": "burgerking",
+      "Address": "kolkata",
+      "Email": "burgerking@gmail.com",
+      "Rating": "4.5"
+    },
+    {
+      "id": 6,
+      "Name": "mcdonald's",
+      "Address": "bangalore",
+      "Email": "mcdonald's@gmail.com",
+      "Rating": "4.5"
+    },
+    {
+      "Name": "dominos",
+      "Address": "kolkata",
+      "Email": "dominos@gmail.com",
+      "Rating": "4.7",
+      "id": 7
+    }
+  ]
+}
